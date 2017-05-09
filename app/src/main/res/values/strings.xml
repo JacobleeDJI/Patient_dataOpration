@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Patient</string>
+    <string name="Clue_select">请选择以下数据操作</string>
+    <string name="add_data">添加一行数据</string>
+    <string name="update_data">更新一行数据</string>
+    <string name="query_data">查找一行数据</string>
+    <string name="delete_data">删除一行数据</string>
+</resources>
